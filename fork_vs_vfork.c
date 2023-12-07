@@ -76,4 +76,4 @@ int main(int argc, char **argv)
 
 
 }
-//8주차 마지막 실습
+//8주차 실습 테스트
